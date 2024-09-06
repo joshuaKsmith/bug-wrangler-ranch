@@ -111,7 +111,7 @@ Your journey will take you through the wildness of the American Midwest and acro
    > The value of `drover` in this loop declaration is a variable that will be iterated over the elements of the array `drovers`.
 
 3. In the **journey** module, there is a `journeyMaker()` function. In that function, there is a variable named `areas` which will have the value of an object. Use your debugger to show what the value of each key is on that object. Use [Loom](https://www.loom.com) to record your session.
-   > Your public Loom URL here
+   > (https://www.loom.com/share/44a982b84df147e8acaffc51cb9ba9d2)
 
 
 4. Also in the **journey** module, there is the following code:
